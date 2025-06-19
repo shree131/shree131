@@ -1,4 +1,1 @@
-- 👋 Hello, I’m Shreeyasha Pandey. I'm a senior Computer Science student at University of Louisiana Monroe. 
-- 💻 I'm currently working on object-oiented programming, cryptology, and mySQL.
-- 📫 You can reach me via. email: pandeysh@warhawks.ulm.edu or LinkedIn: linkedin.com/in/shreeyasha-pandey 
-
+Data science enthusiast with a curiosity for research and analysis, a love for clean code, and a passion to make meaningful discoveries through data. Exploring statistical models and real-world patterns.
