@@ -1,1 +1,3 @@
+![Header](images/github-header-banner.png)
+
 Data science enthusiast with a curiosity for research and analysis, a love for clean code, and a passion to make meaningful discoveries through data. Exploring statistical models and real-world patterns.
