@@ -20,7 +20,7 @@ I am a data science learner and enthusiast with a curiosity for research and dee
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***About Me***
 
-✔ I enjoy diving into messy, real-world datasets, where the real potential of data begins to emerge .<br><br>
+✔ I enjoy diving into messy, real-world datasets, where the real potential of data begins to emerge.<br><br>
 ✔ I gravitate toward SQL and Python (with the occasional help from Excel and Power BI) to explore historical and time-based data across my projects.<br><br>
 ✔ My work features a mix of regression, clustering, time series analysis, statistical methods, and EDA, applied to real-world datasets to build interpretable models and vivid dashboards.<br><br>
 ✔ Currently, I'm focusing on projects around public data, social systems, and sustainability, applying data science to questions with real-world impact.<br><br><br><br>
