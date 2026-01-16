@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>   
-I am a data science learner and enthusiast with a curiosity for research and deep statistical analysis, a love for clean code, and a passion for discovering meaningful insights through data.
+I am a data science learner and enthusiast with a curiosity for research and deep statistical analysis, a love for clean code, and a passion for uncovering meaningful insights through data.
   </em> 
   <br>
 </p>
@@ -20,14 +20,13 @@ I am a data science learner and enthusiast with a curiosity for research and dee
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***About Me***
 
-✔ <br>
-✔ <br>
-✔ <br>
-✔ <br>
-✔ <br>
-✔ <br><br><br><br>
+✔ I enjoy diving into messy, real-world datasets, where the real potential of data begins to emerge .<br><br>
+✔ I gravitate toward SQL and Python (with the occasional help from Excel and Power BI) to explore historical and time-based data across my projects.<br><br>
+✔ My work features a mix of regression, clustering, time series analysis, statistical methods, and EDA, applied to real-world datasets to build interpretable models and vivid dashboards.<br><br>
+✔ Currently, I'm focusing on projects around public data, social systems, and sustainability, applying data science to questions with real-world impact.<br><br><br><br>
 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools I Use in My Projects***
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools I Use Across My Personal and Professional Projects***
+<br><br>
 <p align="left">
   
 <img height="50" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
