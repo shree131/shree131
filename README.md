@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>   
-I am a Data science learner with a curiosity for research and deep statistical analysis, a love for clean code, and a passion to find meaningful discoveries through data.
+I am a data science learner and enthusiast with a curiosity for research and deep statistical analysis, a love for clean code, and a passion for discovering meaningful insights through data.
   </em> 
   <br>
 </p>
