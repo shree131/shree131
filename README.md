@@ -3,8 +3,8 @@
 
 <h3 align="center"> Data Science | ML Modeling | Analytics | Automation </h3>
 <p align="center">
-<a href="https://shreepandey.wixsite.com/portfolio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="shreepandey.wixsite.com/portfolio" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shreeyasha-pandey/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin.com/in/shreeyasha-pandey" height="30" width="40" /></a>  
+<a href="https://shreepandey.wixsite.com/portfolio" target="blank"><img align="center" src="/images/cat-girl.png" alt="shreepandey.wixsite.com/portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreeyasha-pandey/" target="blank"><img align="center" src="/images/LI-In-Bug.png" alt="linkedin.com/in/shreeyasha-pandey" height="30" width="40" /></a>  
 </p>
 
 
