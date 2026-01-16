@@ -1,17 +1,17 @@
 ![Header](images/github-header-banner.png)
 
 
-<h3 align="center"> Data Science | Modeling | Analytics | Automation </h3>
+<h3 align="center"> Data Science | ML Modeling | Analytics | Automation </h3>
 <p align="center">
-<a href="https://shreepandey.wixsite.com/portfolio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shreeyasha-pandey/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://shreepandey.wixsite.com/portfolio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="shreepandey.wixsite.com/portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreeyasha-pandey/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin.com/in/shreeyasha-pandey" height="30" width="40" /></a>  
 </p>
 
 
 
 <p align="center">
   <em>   
-I am a Data science enthusiast with a curiosity for research and deep statistical analysis, a love for clean code, and a passion to find meaningful discoveries through data.
+I am a Data science learner with a curiosity for research and deep statistical analysis, a love for clean code, and a passion to find meaningful discoveries through data.
   </em> 
   <br>
 </p>
@@ -20,7 +20,7 @@ I am a Data science enthusiast with a curiosity for research and deep statistica
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***About Me***
 
-✔  <br>
+✔ <br>
 ✔ <br>
 ✔ <br>
 ✔ <br>
